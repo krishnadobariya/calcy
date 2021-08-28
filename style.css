@@ -1,9 +1,13 @@
+*{
+    overflow: hidden;
+}
 #container{
 
-    height: 100vh;
-    background:url(./calcy.jpg);
+    height: 650px;
+    background:url(calcy.jpg);
     background-size: cover;
-    margin: 0 200px ;
+    margin: 0 200px;
+ 
     
 }
 #calculator{
